@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    padding: 10px;
+    padding-bottom: 10px;
+}
+
+form div{
+    margin: 10px;
+}
+
+textarea {
+    overflow-x: auto;
+    overflow-y: scroll;
+}
